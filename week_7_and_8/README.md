@@ -8,9 +8,6 @@ Number of exploits recreated =
 
 Time spent = 
 
-- Insert screenshot of WPDistillery
-- Insert screenshot of Kali Linux
-
 # Exploits
 
 ## Exploit 1 -
