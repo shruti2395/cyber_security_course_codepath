@@ -21,7 +21,7 @@ Tested in version: 4.2 (affects versions 4.0 - 4.7.2)
 Fixed in version: 4.2.13
 
  # GIF Walkthrough:
- 
+ ![youtube attack](https://github.com/shruti2395/cyber_security_course/raw/master/week_7_and_8/Youtube%20attack.gif "Authenticated Stored Cross-Site Scripting (XSS) in YouTube URL Embeds")
  
  # Steps to recreate:
 
@@ -44,6 +44,8 @@ Tested in version: 4.2 (affects versions 4.0 - 4.3
 Fixed in version: 4.2.5
 
 # GIF Walkthrough:
+![Caption Attack](https://github.com/shruti2395/cyber_security_course/raw/master/week_7_and_8/Caption%20attack.gif "Vulnerability Name or ID")
+ 
 
 # Steps to recreate:
 
@@ -66,6 +68,7 @@ Tested in version: 4.2 (affects versions 4.0 - 4.2.2
 Fixed in version: 4.2.3
 
 # GIF Walkthrough:
+![href exploit](https://github.com/shruti2395/cyber_security_course/raw/master/week_7_and_8/href%20attack.gif "Authenticated Stored Cross-Site Scripting (XSS)")
 
 # Steps to recreate:
 
@@ -77,4 +80,3 @@ Fixed in version: 4.2.3
 
 4. Insert the malicious a href code
 
-<a href="[caption code=">]</a><a title=" onmouseover=alert('exploit!') ">link</a>
